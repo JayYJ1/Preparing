@@ -8,6 +8,6 @@ class Solution {
             answer[i] = (answer[i-2] + answer[i-1]) %1234567;
         }
 
-        return answer[n];
+        return answer[n]
     }
 }
