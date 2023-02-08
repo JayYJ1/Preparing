@@ -13,6 +13,6 @@ class Solution {
         else if(angle==180){
             answer=4;   
         }
-        return answer;
+        return answer
     }
 }
